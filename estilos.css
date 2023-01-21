@@ -1,0 +1,22 @@
+p{
+    width: 3000px;
+     color: red ;}
+/** esto es un comentario */
+h1{ 
+    font-family: Explora; 
+    border:  1px solid blue;
+    padding:  5px; 
+    margin:  5px;
+    font-weight: bold ;
+    color:green
+}     
+#JAJAJAJ  {
+    color: blueviolet;
+   border: 1px solid crimson; 
+}
+
+.estaesmiclase{
+    font-weight: bold;
+    color: aquamarine;
+
+}
