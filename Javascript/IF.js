@@ -5,3 +5,5 @@ if (edad>18){
 } else{
     console.log("La persona es menor de edad")
 }
+
+

@@ -1,0 +1,54 @@
+h1{
+    
+ margin: 0;
+background-color:#927A63;
+}
+
+
+.col-3{
+    background-color: #C4A484;
+    text-align: center;
+    border: 3px solid  #000000; 
+    color: rgb(0, 0, 0); 
+}
+
+
+.foto-perfil{
+     
+    text-align: center;
+     
+     
+}
+.col-9{
+   
+    background-color: #ddcab8;
+    text-align: center;
+    border: 3px solid  #000000; 
+    color: rgb(0, 0, 0); 
+
+}
+h2{
+    background-color: #C4A484;
+    text-align: center;
+}
+
+h3{
+    background-color: #C4A484;
+    text-align: center;
+}
+h4{
+    background-color: #C4A484;
+    text-align: center;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.foto-perfil{
+    width:"100" ;
+    height:"100";
+   
+}
